@@ -26,7 +26,7 @@ Track and predict the energy consumption and carbon footprint of training deep l
 
 ### Contribute Your Favourites
 
-Please share your links sustainable software development resources (books, articles, videos, podcasts) by adding them to this list. Just make a pull request!
+Please share your links sustainable software development resources (courses, packages, books, articles, videos, podcasts) by adding them to this list. Just make a pull request!
 
 
 ### License
