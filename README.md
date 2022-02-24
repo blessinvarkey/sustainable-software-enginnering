@@ -8,8 +8,8 @@ List of resources on Sustainable Software Enginnering :
 
 
 ### Articles/Blogs/Books
-1. [The Social Responsibility of Software Development | IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7888390)
-2. [Branch | Online Magazine](https://branch.climateaction.tech/issues/)
+1. [The Social Responsibility of Software Development](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7888390)
+2. [Branch](https://branch.climateaction.tech/issues/)
 3. [Catalog of Energy Patterns for Mobile Applications](https://arxiv.org/pdf/1901.03302.pdf)
 
 ### Libraries/Packages
