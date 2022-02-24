@@ -2,16 +2,26 @@
 
 List of resources on Sustainable Software Enginnering :
 
-| Title | Type | Website | Notes | 
-|---|---|--|--|
-| [Sustainable Software Engineering](https://open.hpi.de/courses/sustainablesoftware2022?locale=en) | free course | hpi| Dates: March 30, 2022 - April 13, 2022 | 
-|[The Social Responsibility of Software Development](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7888390)| article | ieee | |
-|[The Principles of Sustainable Software Engineering](https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/?ocid=AID3038246&WT.mc_id=green-9537-cxa)| free course | Microsoft| Alternate link to material: [principles.green](https://principles.green) | 
-|[Code Carbon](https://codecarbon.io) |python package | | A lightweight and easy-to-use Python pip package|
-|[Carbon Tracker](https://github.com/lfwa/carbontracker) | package/ library | github.com/lfwa | Track and predict the energy consumption and carbon footprint of training deep learning models.|
-|[Website Carbon](https://www.websitecarbon.com) | website  | websitecarbon.com|  ![](https://mlzkxxscuz0z.i.optimole.com/MkTKU-w-TlyyhJVf/w:300/h:82/q:auto/https://www.websitecarbon.com/wp-content/uploads/2020/03/image-4.png)Calculating the carbon emissions of a website |
-|[Branch](https://branch.climateaction.tech/issues/)| Online magazine| | |
-| [Catalog of Energy Patterns for Mobile Applications](https://arxiv.org/pdf/1901.03302.pdf)| | | | 
+### Courses
+1. [Sustainable Software Engineering | (free course)](https://open.hpi.de/courses/sustainablesoftware2022?locale=en) (Dates: March 30, 2022 - April 13, 2022 )
+2. [The Principles of Sustainable Software Engineering | (free course) ](https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/?ocid=AID3038246&WT.mc_id=green-9537-cxa)
+
+
+### Articles/Blogs/Books
+1. [The Social Responsibility of Software Development | IEEE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7888390)
+2. [Branch | Online Magazine](https://branch.climateaction.tech/issues/)
+3. [Catalog of Energy Patterns for Mobile Applications](https://arxiv.org/pdf/1901.03302.pdf)
+
+### Libraries/Packages
+Track and predict the energy consumption and carbon footprint of training deep learning models.    
+1. [Code Carbon](https://codecarbon.io) (A Python package)    
+2. [Carbon Tracker](https://github.com/lfwa/carbontracker) (package)   
+
+### Websites for Sustainability Testing
+- [Website Carbon](https://www.websitecarbon.com) 
+
+
+
 
 
 ### Contribute Your Favourites
