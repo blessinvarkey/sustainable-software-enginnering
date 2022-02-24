@@ -2,9 +2,9 @@
 
 List of resources on Sustainable Software Enginnering :
 
-### Courses
-1. [Sustainable Software Engineering | (free course)](https://open.hpi.de/courses/sustainablesoftware2022?locale=en) (Dates: March 30, 2022 - April 13, 2022 )
-2. [The Principles of Sustainable Software Engineering | (free course) ](https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/?ocid=AID3038246&WT.mc_id=green-9537-cxa)
+### Free Courses
+1. [Sustainable Software Engineering](https://open.hpi.de/courses/sustainablesoftware2022?locale=en) (Dates: March 30, 2022 - April 13, 2022 )
+2. [The Principles of Sustainable Software Engineering](https://docs.microsoft.com/en-us/learn/modules/sustainable-software-engineering-overview/?ocid=AID3038246&WT.mc_id=green-9537-cxa)
 
 
 ### Articles/Blogs/Books
