@@ -1,4 +1,4 @@
-# Roles, Sustainability & Responsibility 
+# Roles, Responsibilities & Sustainability 
 
 
 # User perspective
@@ -47,7 +47,7 @@ my updates to be
     - Lost productivity per year: 12*10 min = 2h=> 2h*15 (EU)/h = 30 EU
 
 
-# Architects perspective
+# Architect perspective
 ![](images/architect.png)
 
 _As an Architect_   
@@ -177,7 +177,9 @@ _I want to fulfil_
         - Periodic tasks are prone to overuse (does the job need to run on weekends?) 
 
 # Leader perspective
+
 ![](images/po.png)
+
 As a Product Owner   
 I'm responsible for   
 the product and the process it gets built by
@@ -217,12 +219,7 @@ __Pitfals__
 - Review incentives and empower sustainable software engineering
 
 
-
-
-
-
-
-![](https://ars.els-cdn.com/content/image/1-s2.0-S2210537911000473-gr1.jpg)
+![](images/greensoftmodel.png) 
 
 
 ## References
