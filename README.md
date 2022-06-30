@@ -1,4 +1,4 @@
-# Sustainable Software Enginnering
+# Sustainable Software Engineering
 
 ### Contents
 - [Roles, Responsibilities and Sustainability](roles-and-sustainability.md)
@@ -9,7 +9,7 @@
 
 ‘..Sustainable development meets the needs of the present without compromising the ability of future generations to meet their own needs’ - Brundtland report 
 
-About three weeks ago, HPI launched a course on Sustainable Software Engineering. While sustainable software practices aren’t new - courtesy of my engineering team - this course does cover quite a few topics which can be useful for someone new to sustainable or green software/coding. 
+About three weeks ago, HPI launched a course on Sustainable Software Engineering. The course covers quite a few topics which can be useful for someone new to sustainable or green software/coding. 
 
 ## CO2 consumption by ICT 
 __Bitcoin/Deep Learning:__ Some of the algorithms (Bitcoin note) have massive energy and CO2 footprint
